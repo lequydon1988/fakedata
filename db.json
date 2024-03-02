@@ -1,0 +1,27 @@
+{
+    "setting": {
+        "amliru": {
+            "dailyTurnOnTime": "",
+            "dailyTurnOffTime": ""
+        },
+        "amlidan": {
+            "dailyTurnOnTime": "17:00:00",
+            "dailyTurnOffTime": "06:00:00"
+        },
+        "amlingoai": {
+            "dailyTurnOnTime": "17:00:00",
+            "dailyTurnOffTime": "06:00:00"
+        }
+    },
+    "status": {
+        "amliru": {
+            "isOn": true
+        },
+        "amlidan": {
+            "isOn": true
+        },
+        "amlingoai": {
+            "isOn": true
+        }
+    }
+}
