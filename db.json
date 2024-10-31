@@ -1,27 +1,40 @@
 {
-    "setting": {
-        "amliru": {
-            "dailyTurnOnTime": "",
-            "dailyTurnOffTime": ""
+    "amplifier": [
+        {
+          "id": "00000000-0000-0000-0000-000000000000",
+          "name": "amplyRu",
+          "isDaily": false,
+          "startTime": "0001-01-01T00:00:00",
+          "endTime": "0001-01-01T00:00:00",
+          "swiftletHomeId": "00000000-0000-0000-0000-000000000000",
+          "createdOn": "0001-01-01T00:00:00"
         },
-        "amlidan": {
-            "dailyTurnOnTime": "17:00:00",
-            "dailyTurnOffTime": "06:00:00"
+        {
+          "id": "00000000-0000-0000-0000-000000000000",
+          "name": "amplyDan",
+          "isDaily": false,
+          "startTime": "0001-01-01T00:00:00",
+          "endTime": "0001-01-01T00:00:00",
+          "swiftletHomeId": "00000000-0000-0000-0000-000000000000",
+          "createdOn": "0001-01-01T00:00:00"
         },
-        "amlingoai": {
-            "dailyTurnOnTime": "17:00:00",
-            "dailyTurnOffTime": "06:00:00"
+        {
+          "id": "00000000-0000-0000-0000-000000000000",
+          "name": "amplyNgoai",
+          "isDaily": false,
+          "startTime": "0001-01-01T00:00:00",
+          "endTime": "0001-01-01T00:00:00",
+          "swiftletHomeId": "00000000-0000-0000-0000-000000000000",
+          "createdOn": "0001-01-01T00:00:00"
+        },
+        {
+          "id": "00000000-0000-0000-0000-000000000000",
+          "name": "amplyPhong",
+          "isDaily": false,
+          "startTime": "0001-01-01T00:00:00",
+          "endTime": "0001-01-01T00:00:00",
+          "swiftletHomeId": "00000000-0000-0000-0000-000000000000",
+          "createdOn": "0001-01-01T00:00:00"
         }
-    },
-    "status": {
-        "amliru": {
-            "isOn": true
-        },
-        "amlidan": {
-            "isOn": true
-        },
-        "amlingoai": {
-            "isOn": true
-        }
-    }
+    ]
 }
