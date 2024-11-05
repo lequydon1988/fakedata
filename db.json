@@ -1,5 +1,5 @@
 {
-    "amplifier": [
+    "amplifiers": [
         {
           "id": "00000000-0000-0000-0000-000000000000",
           "name": "amplyRu",
@@ -33,6 +33,46 @@
           "isDaily": true,
           "startTime": "2024-01-01T06:00:00",
           "endTime": "2024-01-01T18:00:00",
+          "swiftletHomeId": "00000000-0000-0000-0000-000000000000",
+          "createdOn": "0001-01-01T00:00:00"
+        }
+    ],
+    "fans": [
+        {
+          "id": "00000000-0000-0000-0000-000000000000",
+          "name": "ventilationFan1",
+          "isAuto": true,
+          "tempThreshold": 31,
+          "humidityThreshold": 85,
+          "isDaily": false,
+          "startTime": "0001-01-01T00:00:00",
+          "endTime": "0001-01-01T00:00:00",
+          "swiftletHomeId": "00000000-0000-0000-0000-000000000000",
+          "createdOn": "0001-01-01T00:00:00"
+        }
+    ],
+    "heaterFans": [
+        {
+          "id": "00000000-0000-0000-0000-000000000000",
+          "name": "heaterFan1",
+          "isAuto": true,
+          "tempThreshold": 27,
+          "isDaily": false,
+          "startTime": "0001-01-01T00:00:00",
+          "endTime": "0001-01-01T00:00:00",
+          "swiftletHomeId": "00000000-0000-0000-0000-000000000000",
+          "createdOn": "0001-01-01T00:00:00"
+        }
+    ],
+    "mists": [
+        {
+          "id": "00000000-0000-0000-0000-000000000000",
+          "name": "mistFan1",
+          "isAuto": true,
+          "humidityThreshold": 73,
+          "isDaily": false,
+          "startTime": "0001-01-01T00:00:00",
+          "endTime": "0001-01-01T00:00:00",
           "swiftletHomeId": "00000000-0000-0000-0000-000000000000",
           "createdOn": "0001-01-01T00:00:00"
         }
