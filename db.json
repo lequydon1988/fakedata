@@ -2,6 +2,15 @@
     "amplifiers": [
         {
           "id": "00000000-0000-0000-0000-000000000000",
+          "name": "amplyRuDuPhong",
+          "isDaily": false,
+          "startTime": "2024-01-01T06:00:00",
+          "endTime": "2050-01-01T06:00:00",
+          "swiftletHomeId": "00000000-0000-0000-0000-000000000000",
+          "createdOn": "0001-01-01T00:00:00"
+        },
+        {
+          "id": "00000000-0000-0000-0000-000000000000",
           "name": "amplyRu",
           "isDaily": false,
           "startTime": "2024-01-01T06:00:00",
